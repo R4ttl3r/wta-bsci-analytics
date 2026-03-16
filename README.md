@@ -1,4 +1,4 @@
-# wta-bsci-analytics# WTA Big-Stage Closer Index (BSCI)
+WTA Big-Stage Closer Index (BSCI)
 
 ## What this is
 A Python ETL pipeline and analytics framework built during a capstone engagement 
